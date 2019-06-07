@@ -11,7 +11,7 @@ This is a high-level description of the files contained herein:
 These files contain information about the repository itself or the source code within.
 
 * `README.md`: this document
-* `Summary_of_Results.ipynb`: a copy of the final project report
+* `Summary_of_Results.ipynb`: a copy of the final project summary/report
 * `IBM_Backend_Usage.ipynb`: a brief self-reference for using Qiskit
 * `Scrapbook.ipynb`: some scrap calculations
 
