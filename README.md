@@ -2,6 +2,8 @@
 
 This repository contains the source code that I developed during my time at MITRE in spring 2019. (Later, I might add Steven's code as well.) This collects all the code in a single, easy-to-share location.
 
+You can view the contents without having to install anything on your device via [the online viewer](https://nbviewer.jupyter.org/github/air-wreck/mentorship-notebooks/tree/master/). Github will also display Jupyter notebooks, but it isn't as pretty.
+
 ## Contents
 
 This is a high-level description of the files contained herein:
